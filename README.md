@@ -1,5 +1,12 @@
 # 🧬 Protein Property Analyzer using BioPython
 
+## 🚀 Run in Google Colab
+
+Click the badge below to open this project directly in Google Colab ⬇️
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/Protein_Analyzer_BioPython.ipynb)
+
+
 This project analyzes protein sequences using Python and BioPython, calculating:
 
 - ✅ Molecular weight
@@ -11,11 +18,8 @@ This project analyzes protein sequences using Python and BioPython, calculating:
 ---
 
 ## 📌 How to Use
-1. Clone the repository or download the `.py` or `.ipynb` file
-2. Run using:
-   - Jupyter Notebook / Google Colab for `.ipynb`
-   - VS Code or any Python IDE for `.py`
-3. Paste any valid protein sequence and view analysis results
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shubhkaran/protein-property-analyzer/blob/main/Protein_Analyzer_BioPython.ipynb)
+
 
 ---
 
